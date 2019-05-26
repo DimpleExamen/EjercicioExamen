@@ -1,8 +1,8 @@
 public class AlumnosNotas {
 public static void main(String[] args) {
 
-	  String[] Nombre = {"Carlota", "Carlos", "Diego", "Laura"};
-      int[] Nota = {0, 5, 8, 10};
+	  String[] Nombre = {"Carlota", "Carlos", "Diego", "Laura", "Dimple", "Betsy", "Lorenzo"};
+      int[] Nota = {0, 5, 8, 10, 10, 8, 2};
       String[] Calificacion = new String[4];
       
      for (int i=0; i<Nota.length; i++){
